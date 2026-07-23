@@ -8,7 +8,7 @@ export default {
     extend: {
       colors: {
         background: '#09090A'
-      }
+      },
     },
   },
   plugins: [],
